@@ -1,0 +1,3 @@
+User-Agent: *
+Sitemap: http://localhost:8888/piephp/sitemap.xml
+Allow: /*

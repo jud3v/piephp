@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/var-dumper": "^5.2"
+    },
+    "name": "epitech/piephp",
+    "description": "Piephp student project framework"
+}
